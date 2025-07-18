@@ -82,3 +82,6 @@ The output image (`weather_forecast.png`) clearly shows fluctuations in temperat
 3. Check the current directory for `weather_forecast.png`.
 
 
+##OUTPUT:
+
+<img width="1400" height="600" alt="Image" src="https://github.com/user-attachments/assets/232d30a8-d30f-4ed6-88d2-33d584b438ce" />
